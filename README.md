@@ -1,6 +1,4 @@
 <div align="center">
-  <h3 align="center">Hotel Template</h3>
-
   <p align="center">
      ATLP - Express Mongodb
   </p>
